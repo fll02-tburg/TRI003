@@ -1,6 +1,6 @@
 from pybricks.tools import hub_menu
 
-# Make a menu to choose a letter. You can also use numbers.
+# Make a menu to choose number using the left-right buttons
 selected = hub_menu("1", "2", "3", "4")
 
 # Based on the selection, run a program.
